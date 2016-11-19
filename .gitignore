@@ -5,8 +5,8 @@
 .settings/
 
 # Logs
-mainLogger
-smLogger
+mainLogger.log
+smLogger.log
 
 # Maven
 target/
