@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+mainLogger
+smLogger
+
+# Maven
+target/
+=======
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -7,3 +20,4 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+>>>>>>> a7bb1800b90285dbb432545b7c0a8a28263b3a6f

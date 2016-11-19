@@ -1,0 +1,206 @@
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:56:08, stock: ALE, type: BUY, quantity of shares:     292, price:   172,29
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:46:56, stock: TEA, type: SELL, quantity of shares:     440, price:   628,67
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:46:49, stock: POP, type: SELL, quantity of shares:     748, price:   223,33
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:54:21, stock: JOE, type: BUY, quantity of shares:     630, price:    13,91
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 21:00:32, stock: ALE, type: BUY, quantity of shares:       7, price:   441,34
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:32:59, stock: TEA, type: BUY, quantity of shares:     522, price:   275,19
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:59:31, stock: JOE, type: BUY, quantity of shares:     199, price:   358,94
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:41:37, stock: TEA, type: SELL, quantity of shares:     257, price:   916,88
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:39:12, stock: ALE, type: BUY, quantity of shares:     911, price:   611,79
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:36:52, stock: POP, type: SELL, quantity of shares:     131, price:   674,05
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 21:00:21, stock: TEA, type: SELL, quantity of shares:     667, price:   782,32
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:34:20, stock: ALE, type: SELL, quantity of shares:     197, price:   662,41
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:57:04, stock: ALE, type: SELL, quantity of shares:     440, price:   252,45
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:40:33, stock: JOE, type: BUY, quantity of shares:     840, price:   437,48
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:52:48, stock: POP, type: SELL, quantity of shares:     575, price:   517,84
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:47:34, stock: POP, type: SELL, quantity of shares:     230, price:   894,06
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:37:03, stock: JOE, type: BUY, quantity of shares:     323, price:    40,09
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:42:14, stock: TEA, type: BUY, quantity of shares:     234, price:   416,61
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:32:31, stock: POP, type: SELL, quantity of shares:      54, price:   108,84
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:40:59, stock: GIN, type: SELL, quantity of shares:      43, price:   386,10
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:42:19, stock: POP, type: SELL, quantity of shares:      41, price:   648,67
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:55:14, stock: ALE, type: BUY, quantity of shares:      54, price:   200,43
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:43:37, stock: TEA, type: SELL, quantity of shares:      80, price:   535,79
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:49:25, stock: JOE, type: SELL, quantity of shares:     565, price:   120,73
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:53:49, stock: TEA, type: BUY, quantity of shares:     255, price:   301,13
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:40:35, stock: TEA, type: SELL, quantity of shares:     849, price:   830,99
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:34:15, stock: GIN, type: BUY, quantity of shares:     588, price:   472,25
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:32:27, stock: GIN, type: SELL, quantity of shares:     999, price:   802,80
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:56:37, stock: TEA, type: BUY, quantity of shares:     739, price:   332,63
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:32:30, stock: JOE, type: SELL, quantity of shares:     729, price:   838,61
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:42:40, stock: GIN, type: SELL, quantity of shares:     572, price:   937,94
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:48:46, stock: POP, type: BUY, quantity of shares:     478, price:   481,46
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:34:28, stock: ALE, type: BUY, quantity of shares:     634, price:   332,92
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:53:01, stock: TEA, type: BUY, quantity of shares:     575, price:   340,83
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:48:49, stock: TEA, type: SELL, quantity of shares:     413, price:   566,86
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:51:34, stock: TEA, type: SELL, quantity of shares:     185, price:   790,89
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:37:41, stock: TEA, type: BUY, quantity of shares:     140, price:   149,46
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:56:09, stock: GIN, type: SELL, quantity of shares:     649, price:   259,34
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:47:39, stock: ALE, type: BUY, quantity of shares:     297, price:   238,26
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:55:42, stock: TEA, type: SELL, quantity of shares:     483, price:    98,35
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:59:38, stock: TEA, type: BUY, quantity of shares:     989, price:   802,41
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:34:51, stock: JOE, type: SELL, quantity of shares:     540, price:   258,77
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:35:11, stock: ALE, type: SELL, quantity of shares:     635, price:   305,54
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:36:09, stock: ALE, type: SELL, quantity of shares:     132, price:   241,93
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:59:17, stock: TEA, type: SELL, quantity of shares:     154, price:   363,25
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:53:03, stock: TEA, type: SELL, quantity of shares:     958, price:   412,79
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:39:09, stock: TEA, type: BUY, quantity of shares:     967, price:   925,18
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:54:16, stock: JOE, type: BUY, quantity of shares:      32, price:   408,48
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:48:25, stock: GIN, type: SELL, quantity of shares:     397, price:   110,78
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:57:03, stock: TEA, type: BUY, quantity of shares:     891, price:   769,16
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:56:14, stock: TEA, type: BUY, quantity of shares:     755, price:   339,46
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:48:56, stock: POP, type: SELL, quantity of shares:     663, price:   323,18
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:51:14, stock: POP, type: SELL, quantity of shares:      70, price:   944,38
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:41:57, stock: GIN, type: BUY, quantity of shares:     958, price:   372,97
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:49:57, stock: TEA, type: SELL, quantity of shares:     797, price:   443,37
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:40:45, stock: JOE, type: BUY, quantity of shares:     562, price:   245,93
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:53:12, stock: ALE, type: BUY, quantity of shares:     735, price:   605,12
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:38:04, stock: GIN, type: SELL, quantity of shares:     375, price:   171,72
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:49:36, stock: GIN, type: BUY, quantity of shares:     898, price:   592,17
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:47:41, stock: ALE, type: BUY, quantity of shares:     438, price:   168,31
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 21:01:34, stock: TEA, type: SELL, quantity of shares:     275, price:   841,06
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:35:48, stock: ALE, type: SELL, quantity of shares:     156, price:   868,94
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:46:17, stock: POP, type: SELL, quantity of shares:     136, price:   640,09
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 21:00:19, stock: ALE, type: BUY, quantity of shares:     610, price:   122,36
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:40:36, stock: POP, type: SELL, quantity of shares:     547, price:   224,00
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:36:33, stock: ALE, type: SELL, quantity of shares:     520, price:   813,06
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:54:13, stock: POP, type: BUY, quantity of shares:     145, price:   386,40
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:57:18, stock: ALE, type: BUY, quantity of shares:     420, price:   114,46
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:36:46, stock: ALE, type: SELL, quantity of shares:     837, price:   958,90
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:56:34, stock: JOE, type: BUY, quantity of shares:     745, price:   551,07
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:33:58, stock: JOE, type: BUY, quantity of shares:     813, price:   418,93
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:37:45, stock: ALE, type: SELL, quantity of shares:     346, price:    22,13
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:53:56, stock: ALE, type: SELL, quantity of shares:     195, price:   164,79
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:35:31, stock: GIN, type: SELL, quantity of shares:     222, price:   684,24
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:42:33, stock: ALE, type: SELL, quantity of shares:     586, price:   250,72
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:47:58, stock: POP, type: SELL, quantity of shares:     547, price:   897,86
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:34:13, stock: ALE, type: SELL, quantity of shares:     795, price:   792,52
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:44:20, stock: TEA, type: SELL, quantity of shares:     150, price:   125,23
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:34:06, stock: JOE, type: SELL, quantity of shares:     578, price:   337,12
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:44:58, stock: POP, type: SELL, quantity of shares:     837, price:   743,85
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:42:17, stock: JOE, type: SELL, quantity of shares:     529, price:   489,66
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:37:01, stock: ALE, type: BUY, quantity of shares:     588, price:    58,33
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:37:17, stock: TEA, type: BUY, quantity of shares:     265, price:   220,75
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:56:47, stock: GIN, type: BUY, quantity of shares:     273, price:   607,96
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:35:22, stock: POP, type: SELL, quantity of shares:     750, price:   341,42
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:48:56, stock: JOE, type: BUY, quantity of shares:     278, price:   680,65
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:32:17, stock: ALE, type: BUY, quantity of shares:     553, price:   594,31
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:50:20, stock: JOE, type: SELL, quantity of shares:     545, price:   129,62
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:51:18, stock: GIN, type: BUY, quantity of shares:     252, price:   885,10
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:32:51, stock: GIN, type: BUY, quantity of shares:     789, price:   781,02
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:33:02, stock: GIN, type: BUY, quantity of shares:      28, price:   395,76
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:44:33, stock: ALE, type: SELL, quantity of shares:     116, price:   681,30
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:56:17, stock: GIN, type: BUY, quantity of shares:     105, price:    99,67
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:41:48, stock: POP, type: BUY, quantity of shares:     903, price:    72,92
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:41:16, stock: GIN, type: BUY, quantity of shares:     486, price:   291,38
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:33:07, stock: POP, type: SELL, quantity of shares:     832, price:   426,89
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:50:06, stock: TEA, type: SELL, quantity of shares:     132, price:    56,43
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:32:21, stock: POP, type: BUY, quantity of shares:     112, price:   910,49
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:46:58, stock: POP, type: SELL, quantity of shares:     460, price:   676,79
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket autogenerateTradeQueue
+INFO: Logging of trade -- trade time: 2016-11-17 20:34:14, stock: JOE, type: BUY, quantity of shares:     565, price:   791,74
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket getGBCE
+INFO: 109.54451150103323
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket getVolumeWeightedStockPrice
+INFO: 101.81818
+Íïå 17, 2016 9:02:09 ÌÌ com.jpmorgan.simplestockmarket.StockMarket getVolumeWeightedStockPrice
+INFO: 101.81818
