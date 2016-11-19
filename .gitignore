@@ -20,4 +20,5 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+.bin/
 >>>>>>> a7bb1800b90285dbb432545b7c0a8a28263b3a6f
